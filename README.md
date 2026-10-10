@@ -1,16 +1,15 @@
-# React + Vite
+# Actividades - Estructura de Datos y Algoritmos 2
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Estudiante: Leidy Tatiana Hernandez Montenegro
+Codigo: 2240682
 
-Currently, two official plugins are available:
+Cada actividad vive en su propia rama. Para acceder a ella haz clic en el nombre de la rama.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+| Actividad | Estructura | Rama |
+|---|---|---|
+| Actividad 1 | Listas enlazadas y doblemente enlazadas (React) | [activity-1-in-class-listas](https://github.com/leidytathernandez/Actividades_Estructura_de_datos_y_algoritmos_2/tree/activity-1-in-class-listas) |
+| Actividad 2 | Pilas | [activity-2-in-class-pilas](https://github.com/leidytathernandez/Actividades_Estructura_de_datos_y_algoritmos_2/tree/activity-2-in-class-pilas) |
+| Actividad 2 | Colas | [activity-2-in-class-colas](https://github.com/leidytathernandez/Actividades_Estructura_de_datos_y_algoritmos_2/tree/activity-2-in-class-colas) |
+| Actividad 3 | Árboles binarios | [activity-3-in-class-arboles-binarios](https://github.com/leidytathernandez/Actividades_Estructura_de_datos_y_algoritmos_2/tree/activity-3-in-class-arboles-binarios) |
+| Actividad 3 | Árboles N-arios | [activity-3-in-class-arboles-narios](https://github.com/leidytathernandez/Actividades_Estructura_de_datos_y_algoritmos_2/tree/activity-3-in-class-arboles-narios) |
+| Actividad 4 | Grafos | [activity-4-in-class-grafos](https://github.com/leidytathernandez/Actividades_Estructura_de_datos_y_algoritmos_2/tree/activity-4-in-class-grafos) |
