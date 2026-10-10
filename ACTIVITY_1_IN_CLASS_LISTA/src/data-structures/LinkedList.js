@@ -5,7 +5,7 @@ class SongNode {
     this.next = null;   // Al crearse, todavía no apunta a nadie
   }
 }
-go
+
 class LinkedList {
   constructor() {
     this.head = null; // La lista empieza vacía, sin primer nodo
