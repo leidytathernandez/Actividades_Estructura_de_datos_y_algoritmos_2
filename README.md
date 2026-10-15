@@ -13,3 +13,4 @@ Cada actividad vive en su propia rama. Para acceder a ella haz clic en el nombre
 | Actividad 3 | Árboles binarios | [activity-3-in-class-arboles-binarios](https://github.com/leidytathernandez/Actividades_Estructura_de_datos_y_algoritmos_2/tree/activity-3-in-class-arboles-binarios) |
 | Actividad 3 | Árboles N-arios | [activity-3-in-class-arboles-narios](https://github.com/leidytathernandez/Actividades_Estructura_de_datos_y_algoritmos_2/tree/activity-3-in-class-arboles-narios) |
 | Actividad 4 | Grafos | [activity-4-in-class-grafos](https://github.com/leidytathernandez/Actividades_Estructura_de_datos_y_algoritmos_2/tree/activity-4-in-class-grafos) |
+| Actividad 5 | Trie y heap | [activity-5-in-class-trie-heap](https://github.com/leidytathernandez/Actividades_Estructura_de_datos_y_algoritmos_2/tree/activity-5-in-class-trie-heap) |
